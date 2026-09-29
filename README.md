@@ -26,7 +26,7 @@
 		</td>
 		<td align="center">
 			<a href="https://github.com/renulev">
-				<img src="https://github-stats-extended.vercel.app/api/top-langs?username=renulev&hide_progress=true&langs_count=11&disable_animations=true&theme=monokai" alt="Top Languages">
+				<img src="https://github-stats-extended.vercel.app/api/top-langs?username=renulev&hide_progress=true&langs_count=11&disable_animations=true&theme=ambient_gradient" alt="Top Languages">
 			</a>
 		</td>
 	</tr>
