@@ -1,4 +1,5 @@
 # Mustafa Al-Ameri
+
 ### Renulev
 
 <p align="center">
@@ -9,8 +10,26 @@
 	<b>Proud of what I do. Passionate about it.</b>
 </p>
 
+<br>
+
 <p align="center">
-	<a href="https://github.com/renulev">
-		<img src="https://github-readme-stats-fast.vercel.app/api?username=renulev" alt="Mustafa's GitHub stats">
-	</a>
+	<a href="https://github.com/renulev"><img src="https://img.shields.io/github/followers/renulev?label=Followers&style=flat-square" alt="Followers"></a>
+	<a href="https://github.com/renulev"><img src="https://img.shields.io/github/stars/renulev?label=Stars&style=flat-square" alt="Stars"></a>
 </p>
+
+<table align="center">
+	<tr>
+		<td align="center">
+			<a href="https://github.com/renulev">
+				<img src="https://github-stats-extended.vercel.app/api?username=renulev&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=ambient_gradient" alt="GitHub Stats">
+			</a>
+		</td>
+		<td align="center">
+			<a href="https://github.com/renulev">
+				<img src="https://github-stats-extended.vercel.app/api/top-langs?username=renulev&hide_progress=true&langs_count=11&disable_animations=true&theme=monokai" alt="Top Languages">
+			</a>
+		</td>
+	</tr>
+</table>
+
+<br>
