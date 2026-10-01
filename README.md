@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-	<b>Enginerr. Proud of what I do, and passionate about it.</b>
+	<b>Engineer. Proud of what I do, and passionate about it.</b>
 </p>
 
 <br>
