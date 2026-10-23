@@ -6,10 +6,6 @@
 	<img src="https://avatars.githubusercontent.com/u/295658958?v=4" width="140" alt="Mustafa Al-Ameri">
 </p>
 
-<p align="center">
-	<b>Engineer. Proud of what I do, and passionate about it.</b>
-</p>
-
 <br>
 
 <p align="center">
@@ -19,5 +15,5 @@
 
 <div align="center">
 	<img src="https://github-stats-extended.vercel.app/api?username=renulev&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark_github" alt="GitHub Stats">
-	<img src="https://github-stats-extended.vercel.app/api/top-langs?username=renulev&hide_progress=true&langs_count=11&disable_animations=true&theme=dark_github" alt="Top Languages">
+	<img src="https://github-stats-extended.vercel.app/api/top-langs?username=renulev&hide_progress=true&langs_count=16&disable_animations=true&theme=dark_github" alt="Top Languages">
 </div>
