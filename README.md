@@ -1,7 +1,3 @@
-# Mustafa Al-Ameri
-
-### Renulev
-
 <p align="center">
 	<img src="https://avatars.githubusercontent.com/u/295658958?v=4" width="140" alt="Mustafa Al-Ameri">
 </p>
